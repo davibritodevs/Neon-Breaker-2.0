@@ -32,14 +32,6 @@ O objetivo é controlar a barra, rebater a bola e destruir todos os blocos do ce
 * Canvas API
 * Local Storage
 
-## 📸 Screenshots
-
-Adicione aqui as imagens do jogo:
-
-* Menu Inicial
-* Gameplay
-* Vitória
-* Game Over
 
 ## 🚀 Como Executar
 
